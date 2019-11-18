@@ -1,5 +1,0 @@
-    65	15:50	vi pre-ep16018.c
-    66	15:51	gcc pre-ep16018.c
-    67	15:51	./a.out
-    68	15:51	touch his-ep16018
-    69	15:51	history > his-ep16018
