@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main(){
-	long x,n,m;
+	long x,n,m,xx;
 	scanf("%ld%ld%ld",&x,&n,&m);
 	int i;
 	for(i=0;i<n;i++){
-		x=(x*x)%m;
+		xx=(xx*x)%m;
 	}
 	printf("%ld\n",x);
 }
