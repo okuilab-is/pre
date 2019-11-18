@@ -6,5 +6,5 @@ int main(){
 	for(i=0;i<n;i++){
 		xx=(xx*x)%m;
 	}
-	printf("%ld\n",xx;
+	printf("%ld\n",xx);
 }
