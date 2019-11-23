@@ -1,3 +1,5 @@
+・検証開始時
+
 set path = ( `pwd` $path )
 startss
 history -c
