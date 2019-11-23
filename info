@@ -4,17 +4,8 @@ set path = ( `pwd` $path )
 startss
 history -c
 
-プレテスト
+問題を開く
     https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkoxuMh5r
-グループ1（段）
-    問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/HJZ1Sg4oB
-    問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SygnEg4sB
-グループ2（習）
-    問題1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/SypG2WNiH
-    問題2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkRU2WNsS
-効果の測定
-    グループ1：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/H1yEEl4or
-    グループ2：https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rJYKh-Nsr
 
 ・終了時
 history > his-$USER
