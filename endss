@@ -1,3 +1,4 @@
 #!/bin/bash
+history > his-$USER
 git config --global --unset user.name
 git config --global --unset user.email
