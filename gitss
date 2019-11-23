@@ -1,3 +1,4 @@
 #!/bin/bash
+history > his-$USER
 git add .
 git commit -m "gitss"
