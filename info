@@ -1,17 +1,16 @@
-・検証開始時
-
+-------------------------------------------------------
+<検証開始時>
 set path = ( `pwd` $path )
 startss
 history -c
-
 問題を開く
     https://hackmd.io/@cl6XrIXQRm6VUQ-q_xsaCQ/rkoxuMh5r
 
-・終了時
+-------------------------------------------------------
+<検証終了時>
 history > his-$USER
 gitss
 git push origin HEAD
-    もしID,PWを求められた場合
-        ID(ユーザーネーム):okuilab-is
-        PW:kenshou123
 endss
+
+-------------------------------------------------------
