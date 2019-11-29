@@ -19,8 +19,8 @@ int main(){
 	a=(int)jou(x,n);
 	
 	b=a%(int)m;
-	printf(">>>%ld\n",a); 
-	printf("%ld\n",b);
+	printf(">>>%d\n",a); 
+	printf("%d\n",b);
 	
 }
 
