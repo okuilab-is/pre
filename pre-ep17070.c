@@ -2,10 +2,10 @@
 
 int main(void){
 	int i;
-	long a,x,n,m;
-	scanf("%f",&x);
-	scanf("%f",&n);
-	scanf("%f",&n);
+	int a,x,n,m;
+	scanf("%d",&x);
+	scanf("%d",&n);
+	scanf("%d",&n);
 
 	a=x;
 
@@ -13,5 +13,5 @@ int main(void){
 		x*=a;
 	}
 	
-	printf("%f",x/m);
+	printf("%d",x/m);
 }
