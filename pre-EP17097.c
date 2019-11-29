@@ -9,6 +9,7 @@ long jou(long x,i){
 
 
 int main(){
+	long jou();
 	long x,n,m,a,b;
 	scanf("%ld",&x);
 	scanf("%ld",&n);
