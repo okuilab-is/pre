@@ -13,6 +13,6 @@ int main(void){
   //x=x%m;//余りを求める
 
   printf("%ld\n",x);
-  
+  return 0;  
 
 }
