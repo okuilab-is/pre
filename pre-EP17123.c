@@ -6,6 +6,7 @@ int main(void){
 	scanf("%ld %ld %ld",&x,&n,&m);
 	for(i=0; i<n; i++){
 		x=x*x;
+		printf("%ld ",x);
 	}
 	x=x%m;
 	printf("%ld\n",x);
