@@ -15,7 +15,7 @@ int main(){
 	}
 	
 	b=x1%m;
-	printf(">>>%d\n",a); 
+//	printf(">>>%d\n",a); 
 	printf("%ld\n",b);
 	
 }
