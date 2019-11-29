@@ -2,7 +2,7 @@
 
 int main(){
 	long x,x1,n,m;
-	int a,b;
+	long a,b;
 	scanf("%ld",&x);
 	scanf("%ld",&n);
 	scanf("%ld",&m);
