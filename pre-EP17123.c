@@ -2,13 +2,12 @@
 
 int main(void){
 	int i;
-	long x,n,m;
+	long a,x,n,m;
 	scanf("%ld %ld %ld",&x,&n,&m);
-	for(i=0; i<n; i++){
-		x=x*x;
-		printf("%ld ",x);
+	a=x;
+	for(i=0; i<n; i++){	 
+		a=(a*x)%m;
 	}
-	x=x%m;
-	printf("%ld\n",x);
+	printf("%ld\n",a);
 	return 0;
 }
