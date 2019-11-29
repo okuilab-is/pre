@@ -1,0 +1,99 @@
+   124	17:32	vi pre-EP17097.c
+   125	17:32	gcc pre-EP17097.c
+   126	17:32	a.out
+   127	17:32	3
+   128	17:32	a.out
+   129	17:33	a.out
+   130	17:33	vi pre-EP17097.c
+   131	17:40	gcc pre-EP17097.c
+   132	17:40	vi pre-EP17097.c
+   133	17:40	gcc pre-EP17097.c
+   134	17:40	vi pre-EP17097.c
+   135	17:41	a.out
+   136	17:41	4 4 4
+   137	17:41	a.out
+   138	17:41	vi pre-EP17097.c
+   139	17:42	a.out
+   140	17:42	gcc pre-EP17097.c
+   141	17:42	a.out
+   142	17:42	vi pre-EP17097.c
+   143	17:43	gcc pre-EP17097.c
+   144	17:43	vi pre-EP17097.c
+   145	17:44	gcc pre-EP17097.c
+   146	17:44	vi pre-EP17097.c
+   147	17:44	gcc pre-EP17097.c
+   148	17:44	a.out
+   149	17:44	a.out
+   150	17:45	vi pre-EP17097.c
+   151	17:45	vi pre-EP17097.c
+   152	17:47	gcc pre-EP17097.c
+   153	17:47	a.out
+   154	17:47	vi pre-EP17097.c
+   155	17:48	gcc pre-EP17097.c
+   156	17:48	a.out
+   157	17:48	a.out
+   158	17:48	a.out
+   159	17:49	vi pre-EP17097.c
+   160	17:51	gcc pre-EP17097.c
+   161	17:51	a.out
+   162	17:51	a.out
+   163	17:51	10 100000000 988027
+   164	17:51	a.out
+   165	17:52	a.out
+   166	17:52	vi pre-EP17097.c
+   167	17:56	a.out
+   168	17:56	vi pre-EP17097.c
+   169	18:03	a.out
+   170	18:03	a.out
+   171	18:03	a.out
+   172	18:03	a.out
+   173	18:04	a.out
+   174	18:04	vi pre-EP17097.c
+   175	18:06	gcc pre-EP17097.c
+   176	18:06	a.out
+   177	18:06	2 10 988027
+   178	18:06	a.out
+   179	18:06	vi pre-EP17097.c
+   180	18:07	gcc pre-EP17097.c
+   181	18:07	a.out
+   182	18:07	vi pre-EP17097.c
+   183	18:08	gcc pre-EP17097.c
+   184	18:08	a.out
+   185	18:09	2 10000 988027
+   186	18:09	a.out
+   187	18:09	a.out
+   188	18:09	vi pre-EP17097.c
+   189	18:11	gcc pre-EP17097.c
+   190	18:11	vi pre-EP17097.c
+   191	18:11	gcc pre-EP17097.c
+   192	18:12	a.out
+   193	18:14	vi pre-EP17097.c
+   194	18:19	gcc pre-EP17097.c
+   195	18:20	vi pre-EP17097.c
+   196	18:20	gcc pre-EP17097.c
+   197	18:20	vi pre-EP17097.c
+   198	18:20	gcc pre-EP17097.c
+   199	18:20	a.out
+   200	18:20	log jou ( long x,long i ) {
+   201	18:20	if ( i==0 ) {
+   202	18:20	return 1 ;
+   203	18:20	}else{
+   204	18:20	return ( x*jou ( x, ( i-1 ) ) ) ;
+   205	18:20	}
+   206	18:20	}
+   207	18:20	init main ( ) {
+   208	18:20	log x,n,m ;
+   209	18:20	init a,b ;
+   210	18:20	scanf ( "%ld", & x ) ;
+   211	18:20	scanf ( "%ld", & n ) ;
+   212	18:20	scanf ( "%ld", & m ) ;
+   213	18:20	a= ( int ) jou ( x,n ) ;
+   214	18:20	b=a% ( int ) m ;
+   215	18:20	printf ( ">>>%d\n",a ) ;
+   216	18:20	printf ( "%d\n",b ) ;
+   217	18:20	}
+   218	18:20	a.out
+   219	18:21	a.out
+   220	18:21	vi pre-EP17097.c
+   221	18:22	vi pre-EP17097.c
+   222	18:23	history > his-$USER
