@@ -8,7 +8,7 @@ int main(void){
 	for(i=0; i<n-1; i++){	 
 		a=(a*x)%m;
 	}
-	if(n==1) a=a%m;
+	a=a%m;
 	printf("%ld\n",a);
 	return 0;
 }
