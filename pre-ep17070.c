@@ -9,10 +9,9 @@ int main(void){
 
 	a=x;
 
-	for(i=0;i<n;i++){
+	for(i=1;i<n;i++){
 		x=x*a;
 	}
-	printf("%ld\n",x);
 	x=x%m;
 	printf("%ld\n",x);
 }
