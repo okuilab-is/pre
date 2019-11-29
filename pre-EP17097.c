@@ -1,5 +1,5 @@
 #include <stdio.h>
-long jou(long x,i){
+long jou(long x,long i){
 	if(i=0){
 		return 1;
 	}else{
@@ -9,7 +9,6 @@ long jou(long x,i){
 
 
 int main(){
-	long jou();
 	long x,n,m,a,b;
 	scanf("%ld",&x);
 	scanf("%ld",&n);
