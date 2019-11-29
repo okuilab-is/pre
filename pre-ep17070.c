@@ -1,6 +1,6 @@
 #includ <stdio.h>
 
-int main void(){
+int main(void){
 	int i;
 	long a,x,n,m;
 	scanf("%d",x);
