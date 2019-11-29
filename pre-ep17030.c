@@ -4,8 +4,6 @@ int main(void)
   long x,n,m,i,y,z;
 
   scanf("%ld %ld %ld",&x,&n,&m);
-  //scanf("%ld",&n);
-  //scanf("%ld",&m);
 
   y=x,z=0;
 
