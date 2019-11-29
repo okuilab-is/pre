@@ -9,7 +9,6 @@ void main(){
     s=x%m;
     if(s==0) x=l;
     x=x*l;
-    printf("%ld\n",s);
   }
   printf("%ld\n",s);
 }
