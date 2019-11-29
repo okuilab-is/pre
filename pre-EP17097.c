@@ -10,14 +10,15 @@ long jou(long x,long i){
 
 
 int main(){
-	long x,n,m,a,b;
+	long x,n,m;
+	int a,b;
 	scanf("%ld",&x);
 	scanf("%ld",&n);
 	scanf("%ld",&m);
 		
-	a=jou(x,n);
+	a=(int)jou(x,n);
 	
-	b=a%m;
+	b=a%(int)m;
 	printf(">>>%ld\n",a); 
 	printf("%ld\n",b);
 	
