@@ -5,6 +5,7 @@ int main(void){
 	scanf("%ld%ld%ld",&x,&n,&m);
 	for(int i=0;i<n;i++){
 		a*=x;
+		a%=m;
 	}
 	a%=m;
 	printf("%ld",a);
