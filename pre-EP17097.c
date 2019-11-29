@@ -3,8 +3,9 @@ long jou(long x,long i){
 	if(i==0){
 		return 1;
 	}else{
-	return (x*jou(x,i-1));
+	return (jou(x,(i-1)/2)*jou(x,(i-1)/2));
 	}
+
 }
 
 
