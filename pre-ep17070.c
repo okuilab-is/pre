@@ -13,6 +13,6 @@ int main(void){
 		x=x*a;
 	}
 	printf("%ld\n",x);
-	x=x/m;
+	x=x%m;
 	printf("%ld\n",x);
 }
