@@ -1,0 +1,99 @@
+   162	17:32	a.out
+   163	17:32	a.out
+   164	17:32	emacs pre-ep17071.c
+   165	17:34	gcc pre-ep17071.c
+   166	17:34	a.out
+   167	17:35	gcc pre-ep17071.c
+   168	17:35	emacs pre-ep17071.c
+   169	17:35	gcc pre-ep17071.c
+   170	17:35	gcc pre-ep17071.c
+   171	17:35	a.out
+   172	17:35	gcc pre-ep17071.c
+   173	17:35	emacs pre-ep17071.c
+   174	17:36	gcc pre-ep17071.c
+   175	17:36	a.out
+   176	17:36	emacs pre-ep17071.c
+   177	17:37	gcc pre-ep17071.c
+   178	17:37	a.out
+   179	17:37	emacs pre-ep17071.c
+   180	17:38	gcc pre-ep17071.c
+   181	17:38	a.out
+   182	17:38	a.out
+   183	17:39	a.out
+   184	17:40	emacs pre-ep17071.c
+   185	17:40	gcc pre-ep17071.c
+   186	17:40	a.out
+   187	17:41	emacs pre-ep17071.c
+   188	17:41	gcc pre-ep17071.c
+   189	17:41	a.out
+   190	17:41	emacs pre-ep17071.c
+   191	17:41	gcc pre-ep17071.c
+   192	17:41	a.out
+   193	17:42	a.out
+   194	17:42	emacs pre-ep17071.c
+   195	17:42	gcc pre-ep17071.c
+   196	17:42	a.out
+   197	17:43	emacs pre-ep17071.c
+   198	17:43	gcc pre-ep17071.c
+   199	17:43	a.out
+   200	17:43	emacs pre-ep17071.c
+   201	17:44	gcc pre-ep17071.c
+   202	17:44	a.out
+   203	17:45	emacs pre-ep17071.c
+   204	17:45	a.out
+   205	17:45	emacs pre-ep17071.c
+   206	17:46	emacs pre-ep17071.c
+   207	17:46	gcc pre-ep17071.c
+   208	17:46	a.out
+   209	17:46	emacs pre-ep17071.c
+   210	17:46	gcc pre-ep17071.c
+   211	17:46	a.out
+   212	17:47	gcc pre-ep17071.c
+   213	17:47	emacs pre-ep17071.c
+   214	17:47	gcc pre-ep17071.c
+   215	17:47	a.out
+   216	17:47	gcc pre-ep17071.c
+   217	17:47	emacs pre-ep17071.c
+   218	17:47	gcc pre-ep17071.c
+   219	17:47	a.out
+   220	17:48	emacs pre-ep17071.c
+   221	17:48	emacs pre-ep17071.c
+   222	17:48	gcc pre-ep17071.c
+   223	17:48	a.out
+   224	17:49	emacs pre-ep17071.c
+   225	17:49	gcc pre-ep17071.c
+   226	17:49	a.out
+   227	17:50	a.out
+   228	17:50	emacs pre-ep17071.c
+   229	17:51	emacs pre-ep17071.c
+   230	17:51	gcc pre-ep17071.c
+   231	17:51	a.out
+   232	17:51	emacs pre-ep17071.c
+   233	17:51	gcc pre-ep17071.c
+   234	17:51	a.out
+   235	17:52	emacs pre-ep17071.c
+   236	17:52	gcc pre-ep17071.c
+   237	17:52	a.out
+   238	17:52	emacs pre-ep17071.c
+   239	17:53	gcc pre-ep17071.c
+   240	17:53	a.out
+   241	17:53	a.out
+   242	17:54	emacs pre-ep17071.c
+   243	17:54	gcc pre-ep17071.c
+   244	17:54	a.out
+   245	17:54	a.out
+   246	17:54	a.out
+   247	17:59	emacs pre-ep17071.c
+   248	17:59	gcc pre-ep17071.c
+   249	17:59	a.out
+   250	18:01	emacs pre-ep17071.c
+   251	18:01	emacs pre-ep17071.c
+   252	18:01	gcc pre-ep17071.c
+   253	18:01	a.out
+   254	18:02	a.out
+   255	18:02	a.out
+   256	18:12	emacs pre-ep17071.c
+   257	18:12	a.out
+   258	18:12	gcc pre-ep17071.c
+   259	18:12	a.out
+   260	18:14	history > his-$USER
