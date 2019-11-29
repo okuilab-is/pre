@@ -7,13 +7,10 @@ int main(void){
   scanf("%ld %ld %ld",&x,&n,&m);//値入力
   for(int i=0;i<n;i++){//べき乗
     b*=x;
-    b=b%x;
     printf("%ld\n",b);
   }
-  //x=x%m;//余りを求める
-
-  //x=x%m;
-  //printf("%ld\n",x);
+  x=b%m;//余りを求める
+  printf("%ld\n",x);
   return 0;  
 
 }
