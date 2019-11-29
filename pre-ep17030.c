@@ -12,5 +12,5 @@ int main(void)
     y=x%m;
   }
 
-  printf("%ld",y);
+  printf("%ld\n",y);
 }
