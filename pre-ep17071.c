@@ -6,13 +6,13 @@ int main(void){
 
   scanf("%ld %ld %ld",&x,&n,&m);//値入力
   for(int i=0;i<n;i++){//べき乗
-    x=(x*x)%m;
+    x=(x*x);
     printf("%ld\n",x);
   }
   //x=x%m;//余りを求める
 
-  x=x%m;
-  printf("%ld\n",x);
+  //x=x%m;
+  //printf("%ld\n",x);
   return 0;  
 
 }
