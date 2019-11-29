@@ -8,10 +8,9 @@ int main(void){
   for(int i=0;i<n;i++){//べき乗
     b*=x;
     b=b%m;
-    printf("%ld\n",b);
+    //printf("%ld\n",b);
   }
-  x=b;
-  printf("%ld\n",x);
+  printf("%ld\n",b);
   return 0;  
 
 }
