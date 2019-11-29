@@ -10,7 +10,7 @@ int main(void){
 			x-=m;
 		}
 	}
-	printf("%ld",x);
+	printf("%ld",a);
 	return 0;
 }
 	
