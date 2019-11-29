@@ -8,7 +8,7 @@ int main(void){
   for(int i=0;i<=n;i++){//べき乗
     x=x*x;
     //x=x%m;
-    //printf("%ld\n",x);
+    printf("%ld\n",x);
   }
   //x=x%m;//余りを求める
 
