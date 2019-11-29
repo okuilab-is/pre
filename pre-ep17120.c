@@ -7,7 +7,7 @@ int main(void){
 	for(int i=0;i<n;i++){
 		xs*=x;
 		if(xs>m){
-			a+=x%m;		
+			a+=xs%m;		
 			xs-=m;
 		}
 	}
