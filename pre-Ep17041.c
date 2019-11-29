@@ -6,7 +6,7 @@ int main(void){
 	scanf("%ld",&m);
 	for(int i=1;i<=n;i++)
 		x*=x;
-	if(x%m==0){printf("%ld\n",x);}
-	else{printf("%ld\n",x%m);}
+	if(x%m==0)printf("%ld\n",x);
+	else printf("%ld\n",x%m);
 	return 0;
 }
