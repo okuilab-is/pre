@@ -7,7 +7,7 @@ int main(void)
   scanf("%ld",&n);
   scanf("%ld",&m);
 
-  for(i=0;i<n;i++){
+  for(i=1;i<n;i++){
     x=x*x;
     y=x%m;
     printf("%ld",x);
