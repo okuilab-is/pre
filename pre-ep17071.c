@@ -7,8 +7,8 @@ int main(void){
   scanf("%ld %ld %ld",&x,&n,&m);//値入力
   for(int i=0;i<n;i++){//べき乗
     x=x*x;
-    ama=x%m;
-    printf("%ld\n",ama);
+    x=x%m;
+    printf("%ld\n",x);
   }
   //x=x%m;//余りを求める
 
