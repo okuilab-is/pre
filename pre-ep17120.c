@@ -6,7 +6,7 @@ int main(void){
 	for(int i=0;i<n;i++){
 		a*=x;
 	}
-	printf("%ld",x);
+	printf("%ld",a);
 	return 0;
 }
 	
