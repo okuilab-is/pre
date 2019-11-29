@@ -1,4 +1,4 @@
-u#include <stdio.h>
+#include <stdio.h>
 int main(void){
 	long x,n,m;
 	scanf("%ld",&x);
