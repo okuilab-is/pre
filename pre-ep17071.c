@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 int main(void){
 
   long x,n,m;//数値x、べき乗数n、余り数m
