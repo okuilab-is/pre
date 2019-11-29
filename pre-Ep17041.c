@@ -6,7 +6,7 @@ int main(void){
 	scanf("%ld",&m);
 	for(int i=1;i<=n;i++){
 		a*=x;
-		a=a%m;
+		if(i%10==0)a=a%m;
 	}
 	printf("%ld\n",a);
 	return 0;
