@@ -3,9 +3,9 @@
 int main(void){
 	int i;
 	long a,x,n,m;
-	scanf("%f",x);
-	scanf("%f",n);
-	scanf("%f",n);
+	scanf("%f",&x);
+	scanf("%f",&n);
+	scanf("%f",&n);
 
 	a=x;
 
