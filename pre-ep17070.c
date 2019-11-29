@@ -10,8 +10,8 @@ int main(void){
 	a=x;
 
 	for(i=0;i<n;i++){
-		x*=a;
+		x=x*a;
 	}
 	x=x/m;
-	printf("%ld",x);
+	printf("%ld\n",x);
 }
