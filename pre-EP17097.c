@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 int main(){
 	long x,n,m;
 	int a;
