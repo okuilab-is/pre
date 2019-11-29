@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 	long x,n,m;
-	long a;
+	long a,b;
 	scanf("%ld",&x);
 	scanf("%ld",&n);
 	scanf("%ld",&m);
@@ -9,8 +9,10 @@ int main(){
 	for(int i=0; i<n; i++){
 		a=x*x;
 	}
-	a=a%m;
-	printf("%ld\n",a);
+	b=a%m;
+
+	printf(">>>%ld\n",a); 
+	printf("%ld\n",b);
 
 }
 
