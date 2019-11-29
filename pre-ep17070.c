@@ -8,6 +8,7 @@ int main(void){
 		x=x*a;
 		if(x>m){
 		x=x%m;	
+		}
 	}
 	printf("%ld\n",x);
 }
