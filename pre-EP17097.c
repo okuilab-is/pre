@@ -1,6 +1,6 @@
 #include <stdio.h>
 long jou(long x){
-	y=x*x;
+	return (x*x);
 }
 
 
