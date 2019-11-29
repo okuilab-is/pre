@@ -5,8 +5,12 @@ void main(){
   scanf("%ld",&x);
   scanf("%ld",&n);
   scanf("%ld",&m);
+  long l=0;
   for (int i=0;i<n;i++){
-    x=x*x;
+    l=l+x%m;
+    if(l%m==0){
+	l=0;
+    }
   }
-  printf("%ld\n",x%m);
+  printf("%ld\n",l);
 }
