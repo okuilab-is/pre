@@ -7,6 +7,8 @@ int main(void)
   scanf("%ld",&n);
   scanf("%ld",&m);
 
+  y=0,z=0;
+
   for(i=1;i<n;i++){
     y=y*x;
     z=y%m;
