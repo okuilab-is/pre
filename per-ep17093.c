@@ -5,5 +5,6 @@ void main(){
  scanf("%ld",&x);
  scanf("%ld",&n);
  scanf("%ld",&m);
- printf("%ld",x^n/m);
+
+ printf("%ld\n",x^n%m);
 }
