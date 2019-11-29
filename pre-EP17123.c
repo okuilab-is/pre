@@ -2,8 +2,8 @@
 
 int main(void){
 	int i;
-	long int x,n,m;
-	scanf("%ld %ld %ld",x,n,m);
+	long x,n,m;
+	scanf("%ld %ld %ld",&x,&n,&m);
 	for(i=0; i<n; i++){
 		x=x*x;
 	}
