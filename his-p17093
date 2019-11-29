@@ -1,0 +1,65 @@
+   106	17:08	clear
+   107	17:12	vi per-ep17093.c
+   108	17:20	gcc per-ep17093.c
+   109	17:20	a.out
+   110	17:21	a.out
+   111	17:21	vi per-ep17093.c
+   112	17:25	gcc per-ep17093.c
+   113	17:25	a.out
+   114	17:25	a.out
+   115	17:26	vi per-ep17093.c
+   116	17:28	gcc per-ep17093.c
+   117	17:28	a.out
+   118	17:28	a.out
+   119	17:28	a.out
+   120	17:28	vi per-ep17093.c
+   121	17:35	gcc per-ep17093.c
+   122	17:35	a.out
+   123	17:36	a.out
+   124	17:37	gcc per-ep17093.c
+   125	17:37	vi per-ep17093.c
+   126	17:45	gcc per-ep17093.c
+   127	17:45	a.out
+   128	17:46	a.out
+   129	17:47	a.out
+   130	17:47	vi per-ep17093.c
+   131	17:47	gcc per-ep17093.c
+   132	17:48	a.out
+   133	17:49	vi per-ep17093.c
+   134	17:50	gcc per-ep17093.c
+   135	17:50	a.out
+   136	17:50	vi per-ep17093.c
+   137	17:56	gcc per-ep17093.c
+   138	17:56	a.out
+   139	17:57	a.out
+   140	17:58	vi per-ep17093.c
+   141	17:59	gcc per-ep17093.c
+   142	17:59	a.out
+   143	17:59	a.out
+   144	18:00	vi per-ep17093.c
+   145	18:01	gcc per-ep17093.c
+   146	18:01	a.out
+   147	18:02	a.out
+   148	18:03	vi per-ep17093.c
+   149	18:04	gcc per-ep17093.c
+   150	18:04	a.out
+   151	18:04	a.out
+   152	18:04	vi per-ep17093.c
+   153	18:04	gcc per-ep17093.c
+   154	18:04	a.out
+   155	18:05	a.out
+   156	18:05	vi per-ep17093.c
+   157	18:06	gcc per-ep17093.c
+   158	18:06	a.out
+   159	18:08	vi per-ep17093.c
+   160	18:12	a.out
+   161	18:13	vi per-ep17093.c
+   162	18:17	gcc per-ep17093.c
+   163	18:17	a.out
+   164	18:18	a.out
+   165	18:18	vi per-ep17093.c
+   166	18:19	gcc per-ep17093.c
+   167	18:19	a.out
+   168	18:20	a.out
+   169	18:21	vi per-ep17093.c
+   170	18:24	history > his-$USER
