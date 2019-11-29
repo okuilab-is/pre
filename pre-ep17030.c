@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main(void)
 {
-  int x,n,m,i,y;
+  long x,n,m,i,y;
 
-  scanf("%d",&x);
-  scanf("%d",&n);
-  scanf("%d",&m);
+  scanf("%ld",&x);
+  scanf("%ld",&n);
+  scanf("%ld",&m);
 
   for(i=0;i<n;i++){
     x=x*x;
@@ -13,5 +13,5 @@ int main(void)
   
   y=x%m;
 
-  printf("%d",y);
+  printf("%ld",y);
 }
