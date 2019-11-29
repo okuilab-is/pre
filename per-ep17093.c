@@ -8,6 +8,7 @@ void main(){
   for (int i=0;i<n;i++){
     x=x*x;
     if(x%m==0) x=l;
+    printf("%ld\n",x);
   }
   printf("%ld\n",x%m);
 }
