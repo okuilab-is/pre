@@ -1,23 +1,25 @@
 #include <stdio.h>
-long jou(long x){
-	return (x*x);
+long jou(long x,i){
+	if(i=0){
+		return 1;
+	}else{
+	return (x*jou(x,(i-1));
+	}
 }
 
 
 int main(){
-	long x,n,m;
-	long a,b;
+	long x,n,m,a,b;
 	scanf("%ld",&x);
 	scanf("%ld",&n);
 	scanf("%ld",&m);
 		
-	a=jou(x);
-
-
-
-
+	for(int i=(int)n;i>0;i--){
+		a=jou(x,i);
+	}
+	b=a%m;
 	printf(">>>%ld\n",a); 
-//	printf("%ld\n",b);
-
+	printf("%ld\n",b);
+	
 }
 
