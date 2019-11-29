@@ -1,17 +1,11 @@
 #include <stdio.h>
 int main(void){
-	long a,x,xs,n,m;
-	a=0;
+	long x,n,m;
 	scanf("%ld%ld%ld",&x,&n,&m);
-	xs=x;
 	for(int i=0;i<n;i++){
-		xs*=x;
-		if(xs>m){
-			a+=xs%m;		
-			xs-=m;
-		}
+		x*=x;
 	}
-	printf("%ld",a);
+	printf("%ld",x);
 	return 0;
 }
 	
