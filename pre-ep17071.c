@@ -10,7 +10,8 @@ int main(void){
     b=b%m;
     printf("%ld\n",b);
   }
-  //x=b%m;//余りを求める
+  x=b;
+  printf("%ld\n",x);
   return 0;  
 
 }
