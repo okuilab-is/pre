@@ -4,11 +4,12 @@ void main(){
   scanf("%ld",&x);
   scanf("%ld",&n);
   scanf("%ld",&m);
-  long l=x;
+  long l=x,s=0;
   for (int i=0;i<n-1;i++){
     x=x*x;
-    if(x%m==0) x=l;
+    s=x%m;
+    if(s==0) x=l;
     printf("%ld\n",x);
   }
-  printf("%ld\n",x%m);
+  printf("%ld\n",s);
 }
