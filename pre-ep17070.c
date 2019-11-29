@@ -12,6 +12,6 @@ int main(void){
 	for(i=0;i<n;i++){
 		x*=a;
 	}
-	
-	printf("%ld",x/m);
+	x=x/m;
+	printf("%ld",x);
 }
