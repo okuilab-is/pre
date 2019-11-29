@@ -9,8 +9,8 @@ int main(void)
 
   for(i=1;i<n;i++){
     y=y*x;
-    z=y%m;
+    if(y>m) y=y%m;
   }
 
-  printf("%ld\n",z);
+  printf("%ld\n",y);
 }
