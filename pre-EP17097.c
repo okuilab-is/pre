@@ -14,7 +14,7 @@ int main(){
 	scanf("%ld",&n);
 	scanf("%ld",&m);
 		
-	for(int i=(int)n;i>0;i--){
+	for(long i=n;i>0;i--){
 		a=jou(x,i);
 	}
 	b=a%m;
