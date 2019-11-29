@@ -7,6 +7,6 @@ int main(void){
 	for(int i=1;i<=n;i++)
 		x*=x;
 
-	printf("%ld",x);
+	printf("%ld",x%m);
 	return 0;
 }
