@@ -6,8 +6,9 @@ void main(){
   scanf("%ld",&m);
   long l=x,s=0;
   for (int i=0;i<n;i++){
-    s+=x%m;
-    if(s%m==0) s=0;
+    s=x%m;
+    if(s==0) x=l;
+    x=x*l;
     printf("%ld\n",s);
   }
   printf("%ld\n",s);
