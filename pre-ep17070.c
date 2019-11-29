@@ -3,9 +3,9 @@
 int main(void){
 	int i;
 	long a,x,n,m;
-	scanf("%d",x);
-	scanf("%d",n);
-	scanf("%d",n);
+	scanf("%f",x);
+	scanf("%f",n);
+	scanf("%f",n);
 
 	a=x;
 
@@ -13,5 +13,5 @@ int main(void){
 		x*=a;
 	}
 	
-	printf("%d",x/m);
+	printf("%f",x/m);
 }
