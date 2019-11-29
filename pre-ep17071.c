@@ -2,7 +2,7 @@
 #include <math.h>
 int main(void){
 
-  long x,n,m,b=0;//数値x、べき乗数n、余り数m
+  long x,n,m,b=1;//数値x、べき乗数n、余り数m
 
   scanf("%ld %ld %ld",&x,&n,&m);//値入力
   for(int i=0;i<n;i++){//べき乗
