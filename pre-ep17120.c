@@ -1,13 +1,14 @@
 #include <stdio.h>
 int main(void){
-	long a,x,n,m;
+	long a,x,xs,n,m;
 	a=0;
 	scanf("%ld%ld%ld",&x,&n,&m);
+	xs=x;
 	for(int i=0;i<n;i++){
-		x*=x;
+		xs*=x;
 		if(x>m){
 			a+=x%m;		
-			x-=m;
+			xs-=m;
 		}
 	}
 	printf("%ld",a);
