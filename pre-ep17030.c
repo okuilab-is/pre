@@ -12,7 +12,7 @@ int main(void)
   for(i=1;i<n;i++){
     y=y*x;
     z=y%m;
-    printf("%ld",y);
+    //printf("%ld",y);
   }
 
   printf("%ld\n",z);
