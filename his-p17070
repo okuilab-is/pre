@@ -1,0 +1,88 @@
+   106	17:00	clear
+   107	17:10	ls
+   108	17:12	vi pre-ep17070.c
+   109	17:16	vi pre-ep17070.c
+   110	17:17	vi pre-ep17070.c
+   111	17:18	vi pre-ep17070.c
+   112	17:18	vi pre-ep17070.c
+   113	17:25	gcc pre-ep17070.c
+   114	17:26	vi pre-ep17070.c
+   115	17:27	gcc pre-ep17070.c
+   116	17:27	vi pre-ep17070.c
+   117	17:28	gcc pre-ep17070.c
+   118	17:28	vi pre-ep17070.c
+   119	17:29	gcc pre-ep17070.c
+   120	17:29	a.out
+   121	17:29	vi pre-ep17070.c
+   122	17:31	a.out
+   123	17:31	vi pre-ep17070.c
+   124	17:31	gcc pre-ep17070.c
+   125	17:32	vi pre-ep17070.c
+   126	17:32	gcc pre-ep17070.c
+   127	17:33	a.out
+   128	17:33	vi pre-ep17070.c
+   129	17:34	a.out
+   130	17:34	gcc pre-ep17070.c
+   131	17:34	vi pre-ep17070.c
+   132	17:35	gcc pre-ep17070.c
+   133	17:35	a.out
+   134	17:36	vi pre-ep17070.c
+   135	17:36	a.out
+   136	17:37	gcc pre-ep17070.c
+   137	17:37	vi pre-ep17070.c
+   138	17:37	gcc pre-ep17070.c
+   139	17:37	a.out
+   140	17:38	vi pre-ep17070.c
+   141	17:38	a.out
+   142	17:38	gcc pre-ep17070.c
+   143	17:39	a.out
+   144	17:39	a.out
+   145	17:39	gcc pre-ep17070.c
+   146	17:39	gcc pre-ep17070.c
+   147	17:39	vi pre-ep17070.c
+   148	17:40	gcc pre-ep17070.c
+   149	17:40	a.out
+   150	17:41	vi pre-ep17070.c
+   151	17:42	a.out
+   152	17:42	gcc pre-ep17070.c
+   153	17:42	a.out
+   154	17:42	vi pre-ep17070.c
+   155	17:43	gcc pre-ep17070.c
+   156	17:43	a.out
+   157	17:43	a.out
+   158	17:44	a.out
+   159	17:44	vi pre-ep17070.c
+   160	17:45	gcc pre-ep17070.c
+   161	17:45	a.out
+   162	17:45	gcc pre-ep17070.c
+   163	17:45	a.out
+   164	17:46	vi pre-ep17070.c
+   165	17:56	a.out
+   166	17:57	a.out
+   167	17:57	a.out
+   168	17:57	a.out
+   169	17:58	a.out
+   170	17:58	a.out
+   171	17:58	2 61 988027
+   172	17:58	a.out
+   173	17:59	vi pre-ep17070.c
+   174	18:02	gcc pre-ep17070.c
+   175	18:02	vi pre-ep17070.c
+   176	18:02	gcc pre-ep17070.c
+   177	18:02	a.out
+   178	18:02	a.out
+   179	18:03	a.out
+   180	18:03	a.out
+   181	18:03	a.out
+   182	18:07	vi pre-ep17070.c
+   183	18:08	gcc pre-ep17070.c
+   184	18:08	a.out
+   185	18:09	10 10000000000 99400891
+   186	18:09	a.out
+   187	18:12	vi pre-ep17070.c
+   188	18:13	gcc pre-ep17070.c
+   189	18:13	a.out
+   190	18:14	a.out
+   191	18:14	a.out
+   192	18:14	a.out
+   193	18:20	history > his-$USER
